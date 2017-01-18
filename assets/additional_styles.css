@@ -1,6 +1,6 @@
 /* Start of Mine */
 .navbar{
-  background-color: red;
+  background-color: rgb(250,50,60);
   margin-bottom: -10px;
   padding-bottom: -10px;
   height: 10px !important;
@@ -15,6 +15,10 @@
   width: auto;
 }
 
+.navbar li{
+  margin-top: 5px;
+}
+
 .logo a{
   font-size: 28px;
   margin-top: 2px;
@@ -27,10 +31,11 @@
   color: white;
   text-shadow: black 1px 1px;
   height: 500px;
-  width: 100%;
   padding-top: 150px;
-  margin-left: -15px;
-  margin-right: -150px;
+}
+
+.htf{
+  background-color: yellow;
 }
 
 .WWD{
