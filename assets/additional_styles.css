@@ -25,8 +25,9 @@
   background: url("images/main-hero.jpg") no-repeat center center;
   background-size: cover;
   color: white;
+  text-shadow: black 1px 1px;
   height: 500px;
-  width: auto;
+  width: 100%;
   padding-top: 150px;
 }
 
@@ -40,6 +41,8 @@
 
 .sound-bites, .why-order{
   background-color: rgb(232, 232, 232);
+  margin-left: -20px;
+  margin-right: 150px;
 }
 
 .media p{
@@ -92,6 +95,10 @@
 
 .ft-form{
   margin-bottom: 5px;
+}
+
+.container{
+  width: 100%;
 }
 
 /* End of Mine */
